@@ -1,3 +1,3 @@
-function = saknis(n) {
+saknis = function(n) {
 print(n^2)
 }
